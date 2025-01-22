@@ -12,12 +12,13 @@ The Rockbuster Stealth Management Board has asked a series of business questions
   ● Do sales figures vary between geographic regions?
   
 # Systems Used
-pgAdmin4: Tool for managing PostgreSQL databases efficiently.
-PostgreSQL: Relational Database Management System (RDBMS) used for storing and querying Rockbuster's data.
+pgAdmin4: Tool for managing PostgreSQL databases efficiently.\
+PostgreSQL: Relational Database Management System (RDBMS) used for storing and querying Rockbuster's data.\
 Tableau Public: Platform for creating, sharing, and presenting interactive data visualizations.
 
 # Data
-The dataset for this project includes critical business dimensions that provide a comprehensive view of Rockbuster's operations:\
+The dataset for this project includes critical business dimensions that provide a comprehensive view of Rockbuster's operations:
+
 ● Customer Data: Demographics, geographic details, customer IDs, and account creation dates.\
 ● Film Inventory: Titles, rental rates, genres, ratings, and rental durations.\
 ● Rental Transactions: Rental IDs, dates, and links between customers and payments.\
